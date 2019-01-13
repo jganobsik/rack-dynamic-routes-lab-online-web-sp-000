@@ -7,8 +7,6 @@ class Item
     @@items << self
   end
   
-  def self.price
-    @price
-  end
+ 
  
 end
