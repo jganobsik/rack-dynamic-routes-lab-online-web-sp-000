@@ -7,4 +7,6 @@ class Item
     @@items << self
   end
   
+  
+ 
 end
